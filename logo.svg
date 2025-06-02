@@ -1,0 +1,24 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tiles: 60x60 squares with rounded corners -->
+  <rect x="14"   y="90" width="60" height="60" rx="10" fill="white" stroke="#555" stroke-width="1"/>         <!-- 4 -->
+  <rect x="82"   y="90" width="60" height="60" rx="10" fill="#90ee90" stroke="#555" stroke-width="1"/>       <!-- 2 -->
+  <rect x="150"  y="90" width="60" height="60" rx="10" fill="#90ee90" stroke="#555" stroke-width="1"/>       <!-- 3 -->
+  <rect x="218"  y="90" width="60" height="60" rx="10" fill="white" stroke="#555" stroke-width="1"/>         <!-- 5 -->
+  <rect x="286"  y="90" width="60" height="60" rx="10" fill="#ffa500" stroke="#555" stroke-width="1"/>       <!-- 6 -->
+  <rect x="354"  y="90" width="60" height="60" rx="10" fill="#ffa500" stroke="#555" stroke-width="1"/>       <!-- 1 -->
+  <rect x="422"  y="90" width="60" height="60" rx="10" fill="#90ee90" stroke="#555" stroke-width="1"/>       <!-- 7 -->
+
+  <!-- Centered numbers -->
+  <text x="44"   y="120" font-size="28" font-family="Verdana" fill="#333" text-anchor="middle" dominant-baseline="middle">4</text>
+  <text x="112"  y="120" font-size="28" font-family="Verdana" fill="#333" text-anchor="middle" dominant-baseline="middle">2</text>
+  <text x="180"  y="120" font-size="28" font-family="Verdana" fill="#333" text-anchor="middle" dominant-baseline="middle">3</text>
+  <text x="248"  y="120" font-size="28" font-family="Verdana" fill="#333" text-anchor="middle" dominant-baseline="middle">5</text>
+  <text x="316"  y="120" font-size="28" font-family="Verdana" fill="#333" text-anchor="middle" dominant-baseline="middle">6</text>
+  <text x="384"  y="120" font-size="28" font-family="Verdana" fill="#333" text-anchor="middle" dominant-baseline="middle">1</text>
+  <text x="452"  y="120" font-size="28" font-family="Verdana" fill="#333" text-anchor="middle" dominant-baseline="middle">7</text>
+
+  <!-- Title with emoji -->
+  <text x="256" y="220" font-size="48" font-family="Comic Sans MS, cursive" fill="#333" text-anchor="middle">
+    Number 🔄 Swap
+  </text>
+</svg>
